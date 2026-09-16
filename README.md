@@ -21,7 +21,7 @@
 ```env
 OLLAMA_API_KEY=your_api_key_here
 OLLAMA_API_URL=http://localhost:11434/v1   # یا آدرس سرور شما
-OLLAMA_API_MODEL=llama3.2                  # یا هر مدل دیگری
+OLLAMA_API_MODEL=ollama3.2                 # یا هر مدل دیگری
 ```
 
 ---
